@@ -1,0 +1,24 @@
+{
+  "name": "node-js-chat",
+  "version": "1.0.0",
+  "description": "Simple terminal chat program ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jneedhamspkt/node-js-chat.git"
+  },
+  "keywords": [
+    "js",
+    "ts",
+    "chat"
+  ],
+  "author": "Justin Needham",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jneedhamspkt/node-js-chat/issues"
+  },
+  "homepage": "https://github.com/jneedhamspkt/node-js-chat#readme"
+}
